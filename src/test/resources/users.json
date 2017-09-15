@@ -1,0 +1,26 @@
+{
+  "user": {
+    "data": [
+      {
+        "userName" : "Bret",
+        "email" : "Sincere@april.biz",
+        "password" : "welcome@123",
+        "firstName" : "Leanne",
+        "lastName" : "Graham",
+        "middleName" : "N",
+        "addresses" : [
+          {
+            "_id" : null,
+            "line1" : "Kulas Light",
+            "line2" : "Apt. 556",
+            "city" : "Gwenborough",
+            "zip" : "92998-3874",
+            "country" : "US",
+            "type" : "HOME"
+          }
+        ]
+      }
+    ]
+  }
+}
+
